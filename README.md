@@ -1,2 +1,2 @@
-# Ionic v2+ environment starter
-This repo was made to have a blank Ionic v2+ starter with environment variables
+# Ionic v3 environment starter
+This repo was made to have a blank Ionic v3 starter with environment variables
